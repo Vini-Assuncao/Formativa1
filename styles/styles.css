@@ -1,0 +1,27 @@
+header, footer {
+    background-color: #bad6fc;
+}
+
+h1 {
+    color: #00005b;
+}
+
+h3 {
+    background-color: #e6edf8;  
+}
+
+img {
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+#imagem_aquario {
+    height: 400px;
+    width: auto;
+    border-radius: 10px;
+}
+
+#sobre_oceanwaves {
+    text-align: center;
+}
